@@ -1,0 +1,1 @@
+API Gateway -> Auth -> Product Service -> Redis -> DB
